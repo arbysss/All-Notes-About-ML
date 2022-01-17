@@ -1,0 +1,10 @@
+ETS and Exponential Smoothing - Section Intro
+
+Simple moving average (SMA) : computer akan mengambil nilai rata2 dari rolling window
+
+Exponentially Weighted Moving Average (EWMA) : SMA sama d
+
+3 Forecasting Models => SES, Holt Model, Holt Winters Model
+
+Applications
+
